@@ -356,7 +356,44 @@ const MetaData=[
         59.3186035 ,
         ,
          "CS" 
-    ]
+    ],
+     //nashik start from here
+    [
+        "5108 - Maratha Vidya Prasarak Samaj's Karmaveer Adv. Baburao Ganpatrao Thakare College Of Engineering, Nashik",
+        24582,
+        82.9343565,
+        ,
+        "IT" 
+    ],
+    [
+        "5109 - Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik        ",
+        46071,
+        65.1485718 ,
+           ,
+        "CS" 
+    ],
+    [
+        "5121 - K. K. Wagh Institute of Engineering Education and Research, Nashik",
+        14901,
+        89.7454143 ,
+           ,
+        "IT" 
+    ],
+    [
+        "5151 - MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",
+        37808,
+        72.6935089 ,
+           ,
+        "IT" 
+    ],
+    [
+        "5181 - Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",
+        34991,
+        75.0354492,
+           ,
+        "CS" 
+    ],
+    
    
     
      
