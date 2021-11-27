@@ -468,7 +468,7 @@ for (let i = 0; i < MetaData.length; i++) {
         
         html+=`<tr class="SingleData">
         <td>${index+1}.</td>
-        <td class="clgName">${element[0]}</td>
+        <td class="clgName">(${element[4]}) ${element[0]}</td>
         <td class="Rank" >${element[4]}</td>
         <td class="Rank" >${element[1]}</td>
         <td class="AlineLeft" >${element[2]}%il</td>
